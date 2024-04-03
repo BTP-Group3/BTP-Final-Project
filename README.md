@@ -5,3 +5,12 @@ https://drive.google.com/file/d/1rPnej9XYJPPHlWrw1ItE73b8IVwbCqVK/view?usp=shari
 ![nm2](https://github.com/ashwanijha8068/BTP-Final-/assets/114820778/cb211349-e656-4d1b-a180-77d560719309)
 ![nm1](https://github.com/ashwanijha8068/BTP-Final-/assets/114820778/722305dd-6af8-45db-9751-4e6e3eac3a0d)
 ![sm4](https://github.com/ashwanijha8068/BTP-Final-/assets/114820778/a2adf014-7bfc-4575-aca4-98ee6ab2e39f)
+
+## Contributed By:
+ Nikhil Menon (2020BCS0016) <br>
+ Om Ghumare (2020BCS0130) <br>
+ Ashwani Kumar Jha (2020BCS0029) <br>
+ Anand Swaroop (2020BCS0101) <br>
+
+## Project Guide: 
+ Dr.  A Balu
